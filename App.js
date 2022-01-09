@@ -29,7 +29,7 @@ import * as Location from 'expo-location';
 import AnimatedLoader from 'react-native-animated-loader';
 
 
-
+//testing
 const jennaPoo = require('./assets/fxemoji_poo.png');
 const jennaPooBrown = require('./assets/fxemoji_poo_brown.png');
 const whiteLogo = require('./assets/komi-logo-white.png');
